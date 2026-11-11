@@ -1,3 +1,6 @@
+# Copyright (C) 2026 Qingci-Bot Organization
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 """Hello World 示例插件（演示 SDK 能力）
 
 这是一个**独立插件仓库**：仓库根目录即插件源码，可通过 Qingci-Bot

@@ -33,4 +33,8 @@ git clone https://github.com/Qingci-Bot/hello.git
 
 ## 许可
 
-GPL-3.0-or-later
+GPL-3.0-or-later。
+
+本仓库为 [Qingci-Bot](https://github.com/Qingci-Bot) 组织下**从零开发**的项目，版权归 **Qingci-Bot Organization** 所有；源码文件带 `Copyright (C) 2026 Qingci-Bot Organization` 与 `SPDX-License-Identifier: GPL-3.0-or-later` 声明。
+
+> 主项目 Qingci-Bot-CE 与 Plugins-SDK 为个人原创后转入组织维护，版权归原作者个人所有，与本仓库的归属不同。
